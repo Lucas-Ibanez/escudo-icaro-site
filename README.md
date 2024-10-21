@@ -20,8 +20,8 @@ O "Escudo Ícaro" é uma plataforma dedicada à promoção da segurança digital
 - **Figma:** Prototipagem da interface do aplicativo.
 - **Flutter e React Native:** Tecnologias que serão utilizadas para o desenvolvimento do aplicativo.
 
-## Instalação
+## Acessar as Soluções
 
-1. Clone este repositório para sua máquina local:
+1. Site:
    ```bash
    git clone https://github.com/seu-usuario/escudo-icaro.git
