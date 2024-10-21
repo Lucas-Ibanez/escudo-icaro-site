@@ -28,5 +28,5 @@ O "Escudo Ícaro" é uma plataforma dedicada à promoção da segurança digital
 
 2. Protótipo do Aplicativo:
    ```bash
-   https://www.figma.com/proto/fOxBzqhwlSv5RfLJoYZCPU/Escudo-%C3%8Dcaro%3A-Seu-parceiro-para-uma-internet-mais-segura.?page-id=0%3A1&node-id=14-80&node-type=canvas&viewport=-1912%2C-483%2C0.84&t=9ElajFg1OYqX6cAi-1&scaling=min-zoom&content-scaling=fixedgit clone https://github.com/seu-usuario/escudo-icaro.git
+   https://www.figma.com/proto/fOxBzqhwlSv5RfLJoYZCPU/Escudo- %C3%8Dcaro%3A-Seu-parceiro-para-uma-internet-mais-segura.?page- id=0%3A1&node-id=9-2&node-type=canvas&viewport=-1912%2C- 483%2C0.84&t=9ElajFg1OYqX6cAi-1&scaling=min-zoom&content-scaling=fixed
 
